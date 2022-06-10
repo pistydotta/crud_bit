@@ -1,4 +1,4 @@
-Parabéns ao baixar um CRUD a ser implementado!!
+Parabéns ao baixar um CRUD a ser incrementado!!
 Isso pode ser considerado como um protótipo de uma aplicação a qual tem, já implementado, um gerenciamento de usuários básico(o qual também pode ser incrementado)
 Caso você seja da BIT, o objetivo dessa aplicação é aprender sobre nodejs e javascript enquanto você adiciona novas features na aplicação
 
