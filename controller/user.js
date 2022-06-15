@@ -48,5 +48,13 @@ module.exports = {
             }
         }) 
         else res.redirect('/')
+    },
+
+    isLoggedIn: async (req, res, next) => {
+        if (req.user) next()
+        else {
+            req.flash("error", "Usuario nao esta autenticado")
+            res.redirect("/")
+        }
     }
 }
